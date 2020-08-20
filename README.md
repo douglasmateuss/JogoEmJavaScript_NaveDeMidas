@@ -3,7 +3,7 @@
 Neste tutorial, iremos desenvolver um pequeno jogo de tiro (shooter) em JavaScript. Utilizaremos a biblioteca p5.js que contém vários recursos que auxiliam o desenvolvedor. Para quem não sabe, um shooter é um estilo de jogo de tiros, como <a href="https://www.youtube.com/watch?v=opru6qPsPa4">Space Invaders</a> e <a href="https://www.youtube.com/watch?v=JE5S12PTQac">Contra</a>.
 Desenvolveremos o jogo Nave De Midas, em que o jogador controla uma nave e deve atirar nas caveiras do espaço para ganhar pontos.
 
-<img src="https://github.com/douglasmateuss/JogoEmJavaScript_NaveDeMidas/blob/master/NaveDeMidas_capa.png" width="40%" height="40%"> <img src="https://github.com/douglasmateuss/JogoEmJavaScript_NaveDeMidas/blob/master/NaveDeMidas_jogo.png" width="40%" height="40%">
+<img src="https://github.com/douglasmateuss/JogoEmJavaScript_NaveDeMidas/blob/master/NaveDeMidas_capa.png" width="45%" height="45%"> <img src="https://github.com/douglasmateuss/JogoEmJavaScript_NaveDeMidas/blob/master/NaveDeMidas_jogo.png" width="45%" height="45%">
 
 Serão 8 aulas e uma aula bônus, divididas nos seguintes tópicos:
 
