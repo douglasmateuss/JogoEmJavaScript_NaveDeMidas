@@ -1,7 +1,7 @@
 ## Tutorial de Desenvolvimento de Jogos em _JavaScript_ utilizando a biblioteca *p5.js*
 
 Neste tutorial, iremos desenvolver um pequeno jogo de tiro (shooter) em JavaScript. Utilizaremos a biblioteca p5.js que contém vários recursos que auxiliam o desenvolvedor. Para quem não sabe, um shooter é um estilo de jogo de tiros, como <a href="https://www.youtube.com/watch?v=opru6qPsPa4">Space Invaders</a> e <a href="https://www.youtube.com/watch?v=JE5S12PTQac">Contra</a>.
-Desenvolveremos o jogo Nave De Midas, em que o jogador controla uma nave e deve atirar nas caveiras do espaço para ganhar pontos.
+Desenvolveremos o jogo Nave De Midas, em que o jogador controla uma nave e deve atirar nas caveiras do espaço para ganhar pontos. Você pode jogá-lo <a href="https://editor.p5js.org/douglasm/present/4vXkeauZ3">aqui</a>.
 
 <img src="https://github.com/douglasmateuss/JogoEmJavaScript_NaveDeMidas/blob/master/NaveDeMidas_capa.png" width="48%" height="48%"> <img src="https://github.com/douglasmateuss/JogoEmJavaScript_NaveDeMidas/blob/master/NaveDeMidas_jogo.png" width="48%" height="48%">
 
@@ -11,8 +11,8 @@ Serão 8 aulas e uma aula bônus, divididas nos seguintes tópicos:
 - Aula 2: Conceito de variáves e objetos e criação de animação básica.
 - Aula 3: Criação e animação da Nave, aprender a como limitar a movimentação do personagem.
 - Aula 4: Criação dos tiros da Nave e dos inimigos.
-- Aula 5: Implementação de colisões e configurar ações quando há colisões.
-- Aula 6: Criaçao de pontuação, barra de jogo e sistema de vidas.
+- Aula 5: Implementação de colisões.
+- Aula 6: Criação de pontuação, barra de jogo e sistema de vidas.
 - Aula 7: Inserção de imagens da Nave e dos inimigos e animação de sprites.
 - Aula 8: Inserção de sons do jogo e criação de tela inicial e game over .
 - Aula 9: (bônus) Como publicar seu jogo na plataforma itch.io.
