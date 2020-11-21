@@ -19,4 +19,4 @@ Serão 8 aulas e uma aula bônus, divididas nos seguintes tópicos:
 
 Ao final do tutorial, você será capaz de desenvolver seu próprio jogo e publicá-lo para que outras pessoas possam jogá-los. Lhe ensinarei a base e a lógica para desenvolver jogos  pois, a partir disso, você será capaz de cria jogos mais sofisticados e mais atrativos.
 
-Link das aulas: <a href = "https://youtube.com"> Aula </a>.
+Link das aulas: <a href = "https://www.youtube.com/watch?v=av10oghY2Vg&list=PLoBBiVsE_5VO-SvRrRMZnFZyIatWrapX2&ab_channel=DouglasMateus"> Aula </a>.
